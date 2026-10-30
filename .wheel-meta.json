@@ -1,0 +1,22 @@
+{
+  "wheel_id": 556,
+  "structure": "umbrella",
+  "slug": "stanthorpe4380-150",
+  "project": "business-listings-stanthorpe-bbe893282352b5588fe27f0cf76cce7",
+  "parent_t1_ref": "stanthorpe4380-008",
+  "node_role": "buffer",
+  "money_target": "stanthorpe4380.com.au",
+  "primary_kw": "business listings stanthorpe",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/business-listings-stanthorpe-bbe893282352b5588fe27f0cf76cce7/",
+  "tier": "T2",
+  "writeback_nonce": "1c03edc9b1b47caf",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/business-listings-stanthorpe-008/",
+      "anchor": "more on business listings stanthorpe",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
